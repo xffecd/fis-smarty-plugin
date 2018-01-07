@@ -5,6 +5,7 @@
     "type": "library",
     "license": "MIT",
     "authors": [],
+    "minimum-stability": "dev",
     "require": {
     }
 }
