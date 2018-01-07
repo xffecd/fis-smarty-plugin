@@ -1,0 +1,10 @@
+{
+    "name": "xffecd/fis-smarty-plugin",
+    "description": "",
+    "keywords": [],
+    "type": "library",
+    "license": "MIT",
+    "authors": [],
+    "require": {
+    }
+}
